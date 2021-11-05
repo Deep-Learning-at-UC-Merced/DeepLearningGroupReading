@@ -30,17 +30,18 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 | Meeting Date    | Meeting Topic                            | Reading Resources                                                                                                                                                                                                                                                            | Pre-Requisites                                                                                                        |  Additional Notes  |
 |-----------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---|
 | Sep. 3rd, 2021  | Universal Approximation Theorem          | [Ref 1](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUe04trpsRlHqx7lnTxiikEBwo3s2Ws-MFFtoRRFIvl2uw?e=uUyQgY), [Ref 2](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EbnJZcdaHDJHqxE0XEZQf_oB0EmMYFc_PmL36qERWDc1ZA?e=lhz8iE)  | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha)|   |
-| Sep. 10th, 2021 | Universal Approximation Theorem (Continuation of last week) | [Ref iii (main)](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUoLVWEJ7gtFspFOS7ovosABbdkFBxdx3S3eh45XwBUQ5g?e=xFKy3b), [Ref 3](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ETtZ9P-0AI1Fu5uSvU5OAbABlAJ1gad5lpcyBhuGhlLNFg?e=ewgL8K), [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha) |   |
-| Sep. 17th, 2021 |  Universal Approximation Theorem of Operators |   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) (Main)  | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT), [Ref vi](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf)| The Applied Analysis book by Hunter et Nachtergaele Chapter 11 can provide useful background on distributions (specifically Tempered distributions
-|   Sep. 24th, 2021|              Universal Approximation Theorem of Operators (DeepONets)|   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) (Main)  | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT), [Ref vi](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf)| The Applied Analysis book by Hunter et Nachtergaele Chapter 11 can provide useful background on distributions (specifically Tempered distributions
+| Sep. 10th, 2021 | Universal Approximation Theorem (Continuation of last week) | [Ref iii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EUoLVWEJ7gtFspFOS7ovosABbdkFBxdx3S3eh45XwBUQ5g?e=xFKy3b) (Main), [Ref 3](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ETtZ9P-0AI1Fu5uSvU5OAbABlAJ1gad5lpcyBhuGhlLNFg?e=ewgL8K), [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB) | [Ref i](https://www.deeplearningbook.org/contents/ml.html), [Ref ii](https://www.deeplearningbook.org/contents/mlp.html), [Ref iv](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EX7ifasirRpMleiwtHQnRFMBmuwMpsFsyLJdY9D4gyzWMw?e=ZXILha) |   |
+| Sep. 17th, 2021 |  Universal Approximation Theorem of Operators |   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB)  | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT), [Ref vi](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf)| The Applied Analysis book by Hunter et Nachtergaele Chapter 11 can provide useful background on distributions (specifically Tempered distributions
+|   Sep. 24th, 2021|              Universal Approximation Theorem of Operators (DeepONets)|   [Ref 4](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/Ea8_iJPFK8JEmiddCPFnk0MB9q9mS-uC66mDIkrtnOQN5g?e=UdtTeB)  | [Ref v](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ES_u_fJFJ_hJhnDGQttqHjgBFldu35IDCpqwyzUTqqt5Xw?e=gmOztT), [Ref vi](https://www.math.ucdavis.edu/~hunter/book/ch11.pdf)| The Applied Analysis book by Hunter et Nachtergaele Chapter 11 can provide useful background on distributions (specifically Tempered distributions
 |   Oct. 1st, 2021             |  Appropriate Metrics and Model Evaluation | [Ref 5](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EVpyaKHglh5EkJ3IZCSbEfIBbGvRnAtyJo5v-Vc_ioU1xw?e=6cyUfi) (Main), [Ref 6](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EbWCPleeAsFGkh_kSiC0K9wBKhk50ejHADev1u3_yqnlcQ?e=v8rNTE) | [Ref vii](https://dawn.cs.stanford.edu/2019/10/10/noneuclidean/), [Ref viii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EasHWPAcd9FLnti61repHGgBpu1mnJXJr3nvustfURp5_w?e=o7t0eq)
 | Oct. 8th, 2021 	       | Evaluation with Imbalance Data (Fairness and Bias in AI)| [Ref 7](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EdMYVAYd3d1CgK9u95k_q6sBHv7V4WC7Srw9zNhUeq2rxw?e=01FG50) (Section 5) | | 
-| Oct. 15th, 2021		| Optimization in DL (Basics) | TBD | | |
+| Oct. 15th, 2021		| Optimization in DL (Basics) | [Ref 8](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ER2ubQVT6vBMm6oDET9k7ocB1SFBhPkzUBeOIYcqP7e0_A?e=WrE7f0) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67) | The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
+| Oct. 22nd, 2021		| On the Convergance of Adaptive Optimizers | [Ref 9](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ESaUheys9YVNu9fSbpipUwIB1l9m0g9perXKXOyb8PxWRg?e=Aq5VVx) (Main), [Ref 10](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EROntlCIHYhJjEoBuVLyoKIBePubLm6kY1XN0TySk0DC0w?e=BJhjQE) | [Ref ix](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EczACEbuh_NHn3lIrVQidUcBnWu0OLOlhWkV9Q2BdU3ucA?e=NHTZ67)| The Nocedal and Wright textbook on optimization is a great reference for preliminary background on gradient descent |
+| Oct. 29th, 2021		| DL in Natural Language Processing | [Ref 12](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EeyfL9vJ5aJFms57DI-k4hoBQyEl6dufjRb2Blbjbh8UkA?e=bKwru2) | [Ref xii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/EXJWbb1tfHNIvSo_lpsXxeYB7G6xWZjzqzj3KEpyLGWGeA?e=bQpxj3), [Ref xiii](https://merced-my.sharepoint.com/:b:/g/personal/aheydari_ucmerced_edu/ERe8fEQjxBVEtjuMXcWXGAwBR4dDiplpKnlDL1RHjIGtIw?e=hDRmbX)|  |
+| Nov. 5th, 2021		| Additive Attention for Neural Language Translation | [Ref 13](https://arxiv.org/pdf/1409.0473.pdf) | [Ref xiv](https://d2l.ai/chapter_recurrent-modern/encoder-decoder.html), [Ref xv](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) | Supplementary references are for a quick introduction to encoders and decoders, as well as a source on RNN's and their applications. |
 
 
 ## Acknowledgements and References
-
-### Universal Approximation Theory
 
 ````
 @article{Ref 1,
@@ -129,6 +130,108 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
 	year = {2006}}
 
 ````
+
+````
+@article{Ref 7,
+author = {Mehrabi, Ninareh and Morstatter, Fred and Saxena, Nripsuta and Lerman, Kristina and Galstyan, Aram},
+title = {A Survey on Bias and Fairness in Machine Learning},
+year = {2021},
+issue_date = {July 2021},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {54},
+number = {6},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3457607},
+doi = {10.1145/3457607},
+journal = {ACM Comput. Surv.},
+month = jul,
+articleno = {115},
+numpages = {35},
+keywords = {machine learning, deep learning, representation learning, natural language processing, Fairness and bias in artificial intelligence}
+}
+````
+
+````
+@article{ref 8,
+  author    = {Sebastian Ruder},
+  title     = {An overview of gradient descent optimization algorithms},
+  journal   = {CoRR},
+  volume    = {abs/1609.04747},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1609.04747},
+  eprinttype = {arXiv},
+  eprint    = {1609.04747},
+  timestamp = {Mon, 13 Aug 2018 16:48:10 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/Ruder16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+````
+
+
+```
+@misc{Ref 9,
+      title={On the Convergence of Adam and Beyond}, 
+      author={Sashank J. Reddi and Satyen Kale and Sanjiv Kumar},
+      year={2019},
+      eprint={1904.09237},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+```
+@article{Ref 10,
+      title={On the Convergence of Stochastic Gradient Descent with Adaptive Stepsizes}, 
+      author={Xiaoyu Li and Francesco Orabona},
+      year={2019},
+      eprint={1805.08114},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML}
+}
+```
+
+```
+@InProceedings{Ref11,
+  title = 	 {Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization},
+  author =       {Mahapatra, Debabrata and Rajan, Vaibhav},
+  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
+  pages = 	 {6597--6607},
+  year = 	 {2020},
+  editor = 	 {III, Hal Daumé and Singh, Aarti},
+  volume = 	 {119},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v119/mahapatra20a/mahapatra20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v119/mahapatra20a.html},
+  abstract = 	 {Multi-Task Learning (MTL) is a well established paradigm for jointly learning models for multiple correlated tasks. Often the tasks conflict, requiring trade-offs between them during optimization. In such cases, multi-objective optimization based MTL methods can be used to find one or more Pareto optimal solutions. A common requirement in MTL applications, that cannot be addressed by these methods, is to find a solution satisfying userspecified preferences with respect to task-specific losses. We advance the state-of-the-art by developing the first gradient-based multi-objective MTL algorithm to solve this problem. Our unique approach combines multiple gradient descent with carefully controlled ascent to traverse the Pareto front in a principled manner, which also makes it robust to initialization. The scalability of our algorithm enables its use in large-scale deep networks for MTL. Assuming only differentiability of the task-specific loss functions, we provide theoretical guarantees for convergence. Our experiments show that our algorithm outperforms the best competing methods on benchmark datasets.}
+}
+
+```
+
+```
+@misc{Ref 12,
+      title={Deep contextualized word representations}, 
+      author={Matthew E. Peters and Mark Neumann and Mohit Iyyer and Matt Gardner and Christopher Clark and Kenton Lee and Luke Zettlemoyer},
+      year={2018},
+      eprint={1802.05365},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+```
+
+```
+@misc{Ref 13,
+      title={Neural Machine Translation by Jointly Learning to Align and Translate}, 
+      author={Dzmitry Bahdanau and Kyunghyun Cho and Yoshua Bengio},
+      year={2016},
+      eprint={1409.0473},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 --------------------------------------
 
 ````
@@ -184,5 +287,3 @@ Here we provide a list of hand-picked resources for each of the meeting sessions
   pages={911-917},
   doi={10.1109/72.392253}}
 ````
-
-
